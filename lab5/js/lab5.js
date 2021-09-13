@@ -7,7 +7,7 @@
 var make = "Honda";
 var model = "civic";
 var color = "grey";
-var year = 2008;
+var year = 2018;
 
 // calculate
 var age = 2021 - year;
