@@ -4,7 +4,7 @@ h1 {
 
 #two-cols {
   display: flex;
-  background-color: #3c80a0;
+  background-color: linen;
   padding: 20px 0 400px 0;;
 }
 
@@ -21,7 +21,7 @@ h1 {
 }
 
 #side {
-  background-color: rgb(121, 158, 195);
+  background-color: rgb(155, 161, 123);
   padding: 10px;
   overflow: scroll;
 }
@@ -42,7 +42,7 @@ nav {
 nav a {
   float: left;
   display: block;
-  color: rgb(185, 202, 222);
+  color: rgb(155, 161, 123);
   font-weight: bold;
   text-align: center;
   padding: 14px 20px;
